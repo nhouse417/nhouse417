@@ -15,4 +15,6 @@ I'm a recent grad seeking entry-level or internship positions in software develo
 - ⚡ Fun facts: I love basketball and American football, love to exercise, and a recent F1 fan! 
 
 Connect with me: 
-<img src ="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}">
+<a href="https://www.linkedin.com/in/noah-house-333119121/" target="_blank">
+<i class="fa-brands fa-linkedin-in"></i>
+</a>
