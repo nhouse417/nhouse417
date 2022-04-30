@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 I'm a recent grad seeking entry-level or internship positions in software development or embedded systems! 
 
-- 🔭 I’m currently working on RaspberryPi projects such as facial recognition using OpenCV
-- 🌱 I’m currently learning HTML, CSS, and TensorFlow
+- 🔭 I’m currently working on RC Transmitter for an RC Car and F1 Data Analysis using Python library FastF1
+- 🌱 I’m currently learning more about Python, Pandas dataframe, and web scraping
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love basketball and American football, love to exercise, and a recent F1 fan! 
