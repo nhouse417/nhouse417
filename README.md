@@ -13,6 +13,11 @@ I'm a recent grad seeking entry-level or internship positions in software develo
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love basketball and American football, love to exercise, and a recent F1 fan! 
+- Projects include 
+  - Facial Recognition using Python's OpenCV library, an Arduino UNO R3, and C Programming Language
+  - Casino Game using C++ Programming Language
+  - Simple JSON API using Python and Flask Library
+  - A Pedestrian Crossing Project using an Arduino UNO R3 and C Programming Language
 
 Connect with me:
 
