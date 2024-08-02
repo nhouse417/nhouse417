@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-I'm a recent grad with a computer engineering degree with a minor in computer science seeking entry-level or internship positions in software development or embedded systems! 
+I'm a recent Firmware Engineer from Western Digital seeking an opportunity as a Software Development Engineer in Test or an Embedded Software Engineer specifically in the space or automotive industry. 
 
-- 🔭 I’m currently working on RC Transmitter for an RC Car and F1 Data Analysis using Python library FastF1
-- 🌱 I’m currently learning more about Python, Pandas dataframe, and web scraping
+- 🔭 I’m currently working on simulating a flight using OpenSatKit and a RaspberryPi
+- 🌱 I’m currently learning more about embedded systems and cFS from NASA's open source cFS on github
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love basketball and American football, love to exercise, and a recent F1 fan! 
