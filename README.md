@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 I'm a recent Firmware Engineer from Western Digital seeking an opportunity as a Software Development Engineer in Test or an Embedded Software Engineer specifically in the space or automotive industry. 
 
-- 🔭 I’m currently working on simulating a flight using OpenSatKit and a RaspberryPi
+- 🔭 I’m currently working on an Arduino RC car with a remote controller!
 - 🌱 I’m currently learning more about embedded systems and cFS from NASA's open source cFS on github
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him
