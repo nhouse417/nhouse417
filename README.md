@@ -8,15 +8,14 @@ Here are some ideas to get you started:
 
 I'm a recent Firmware Engineer from Western Digital seeking an opportunity as a Software Development Engineer in Test or an Embedded Software Engineer specifically in the space or automotive industry. 
 
-- 🔭 I’m currently working on an Arduino RC car with a remote controller!
+- 🔭 I’m currently working on implementing a RTOS on ESP32 microcontroller.
 - 🌱 I’m currently learning more about embedded systems and cFS from NASA's open source cFS on github
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love basketball and American football, love to exercise, and a recent F1 fan! 
 - Projects include 
+  - Arduino RC Car with RF transmission
   - Facial Recognition using Python's OpenCV library, an Arduino UNO R3, and C Programming Language
-  - Casino Game using C++ Programming Language
-  - Simple JSON API using Python and Flask Library
   - A Pedestrian Crossing Project using an Arduino UNO R3 and C Programming Language
 
 Connect with me:
