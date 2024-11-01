@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 I'm a recent Firmware Engineer from Western Digital seeking an opportunity as a Software Development Engineer in Test or an Embedded Software Engineer specifically in the space or automotive industry. 
 
-- 🔭 I’m currently working on implementing a RTOS on ESP32 microcontroller.
-- 🌱 I’m currently learning more about embedded systems and cFS from NASA's open source cFS on github
+- 🔭 I’m currently working on implementing a RTOS on ESP32 microcontroller and a home security camera
+- 🌱 I’m currently learning more about embedded systems and AI
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love basketball and American football, love to exercise, and a recent F1 fan! 
