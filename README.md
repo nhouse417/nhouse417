@@ -6,17 +6,19 @@
 Here are some ideas to get you started:
 -->
 
-I'm a recent Firmware Engineer from Western Digital seeking an opportunity as a Software Development Engineer in Test or an Embedded Software Engineer specifically in the space or automotive industry. 
+I'm a former Software Test Development Engineer at Western Digital. I'm currently making a career change to the Machine Learning field 
+as I'm now passionate about how I can use data analysis to improve a product. There's many facets of machine learning but I'm very 
+interested in racecar data analysis to improve car performance or to imrpove a race strategy.
 
-- 🔭 I’m currently working on implementing a RTOS on ESP32 microcontroller and a home security camera
-- 🌱 I’m currently learning more about embedded systems and AI
+- 🔭 I’m currently working on a simple Logistic Regression project
+- 🌱 I’m currently learning more about neural networks and the python libraries associated such as tensorflow and keras
 - 💬 Ask me about anything 
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts: I love basketball and American football, love to exercise, and a recent F1 fan! 
+- ⚡ Fun facts: I love basketball and American football, love to exercise, and an F1 fan! 
 - Projects include 
   - Arduino RC Car with RF transmission
-  - Facial Recognition using Python's OpenCV library, an Arduino UNO R3, and C Programming Language
-  - A Pedestrian Crossing Project using an Arduino UNO R3 and C Programming Language
+  - Linear Regression Model on the California Housing dataset
+      - one version uses my implementation of linear regression
+      - second version I use the sklearn library to implement linear regression using a pipeline
 
 Connect with me:
 
